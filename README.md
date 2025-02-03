@@ -28,7 +28,7 @@ My time with Server Nova was brief and exciting, I had the opportunity to active
 - Defined new IT employee training procedures; reducing onboarding time by over 20%.
 - Assisted CTO, CISO, and Director of IT with maintaining organization compliance and operation.
 
-My time with EAW was exciting and dynamic. I had opportunities to work with a wide array of people and skill sets. During the course of my employment, the company was actively dealing with the impacts of Covid-19 on their workforce. My time ended abruptly during a mass IT Exodus and restructuring following legal actions against a core manager. I left on great terms, considering the larger situation my boss's, employee's, and I were operating in.
+My time with EAW was exciting and dynamic. I had opportunities to work with a wide array of people and skill sets. During the course of my employment, the company was actively dealing with the impacts of Covid-19 on their workforce. My time ended abruptly during a mass IT Exodus and restructuring.
 
 
 ## T1 Systems Administrator - Eminent Technical Solutions
