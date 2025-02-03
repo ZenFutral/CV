@@ -12,10 +12,10 @@
 - Managed all IT operations for clients, including: o365/Entra, physical infrastructure, and end-user training. 
 - Create internal and external knowledge bases. Assured clean transition during company merger.
 - Built reporting tools utilizing VMWare's PowerShell library.
-- Led client security training and response after phishing business comprimise.
-- Handled client onboarding, overseeing infrastructure migrations and assuring transition acuracy.
+- Led client security training and response after phishing business compromise.
+- Handled client onboarding, overseeing infrastructure migrations and assuring transition accuracy.
 
-My time with Server Nova was brief and exciting, I had the opprotunity to actively lead the creation of the new MSP offering. I left Server Nova after they merged with an established MSP company. This rendered my department, and position, redundant. I left with a glowing letter of reccomendation from the CEO, CTO, and COO.
+My time with Server Nova was brief and exciting, I had the opportunity to actively lead the creation of the new MSP offering. I left Server Nova after they merged with an established MSP company. This rendered my department, and position, redundant. I left with a glowing letter of recommendation from the CEO, CTO, and COO.
 
 
 ## Help Desk Manager & Site Facilities Coordinator - Education At Work
@@ -28,7 +28,7 @@ My time with Server Nova was brief and exciting, I had the opprotunity to active
 - Defined new IT employee training procedures; reducing onboarding time by over 20%.
 - Assisted CTO, CISO, and Director of IT with maintaining organization compliance and operation.
 
-My time with EAW was exciting and dynamic. I had opprotunities to work with a wide array of people and skill sets. During the course of my employment the company was actively dealing with the impacts of Covid-19 on their workforce. My time ended abruptly during a mass IT exedus and restructuring following legal actions against a core manager. I left on great terms, considering the larger situation my boss's, employee's, and myself were operating in.
+My time with EAW was exciting and dynamic. I had opportunities to work with a wide array of people and skill sets. During the course of my employment, the company was actively dealing with the impacts of Covid-19 on their workforce. My time ended abruptly during a mass IT Exodus and restructuring following legal actions against a core manager. I left on great terms, considering the larger situation my boss's, employee's, and I were operating in.
 
 
 ## T1 Systems Administrator - Eminent Technical Solutions
@@ -39,10 +39,10 @@ My time with EAW was exciting and dynamic. I had opprotunities to work with a wi
 - Managed IT for city governments, charter schools, and a variety of MSBs.
 - Frequently supported LDAP, Ubiquiti, Sophos, and more.
 - Designed PowerShell automations, streamlining processes and reducing Windows image time by 30%.
-- Assisted in large projects, such as the complete redesign and deployment of new IT Infrastructe at the Park City Water Treatment plant.
-- Deployed and maintained fleets of ChromeBooks and iPads.
+- Assisted in large projects, such as the complete redesign and deployment of new IT Infrastructure at the Park City Water Treatment plant.
+- Deployed and maintained fleets of Chromebooks and iPads.
 
-My time with ETS was extremely informative, filled with learning and training. I was part of a hiring wave caused by a possible financial influx and client expansion opprotunities caused by a large grant renewal with the State of Idaho. Unfortunetly, Idaho did not renew the grant, which led to a layoff of all employees hired during the aformentioned wave.
+My time with ETS was extremely informative, filled with learning and training. I was part of a hiring wave caused by a possible financial influx and client expansion opportunities caused by a large grant renewal with the State of Idaho. Unfortunately, Idaho did not renew the grant, which led to a layoff of all employees hired during the aforementioned wave.
 
 
 ## T2 Senior Technician & Technical Trainer - Xidax
@@ -57,7 +57,7 @@ My time with ETS was extremely informative, filled with learning and training. I
 - Frequently communicated with other departments to assure customer satisfaction.
 - Communicated with clients through Chat, Phone, and Email.
 
-When I was asked to join the Xidax team, the company already new of my plans to leave. I enjoyed the work and people, but found little room left to grow in the break-fix technology world. I left on wonderful terms with glowing refferences.
+When I was asked to join the Xidax team, the company already knew of my plans to leave. I enjoyed the work and people, but found little room left to grow in the break-fix technology world. I left on wonderful terms with glowing references.
 
 
 ## Technical Lead & Assistant Store Manager - PC Laptops
@@ -70,17 +70,17 @@ When I was asked to join the Xidax team, the company already new of my plans to 
 - Standardized interdepartmental communication by establishing project management procedures, leading to a 17% increase in system service throughput.
 - Frequently wrote automation and tool scripts using Python, CMD, and PowerShell; including full system benchmarking, API automations, and one-off problem-solving scripts.
 - Oversaw customer satisfaction and business procedures in a retail environment.
-- Frequently served as a liasone between clients and IT contractors/vendors.
+- Frequently served as a liaison between clients and IT contractors/vendors.
 
-My time with PC Laptops came to an end when corporate asked me to help train technicians at their new and quickly growing subsidiary Xidax.
+My time with PC Laptops came to an end when corporate asked me to help train technicians at their new and quickly growing subsidiary, Xidax.
 
 
 ## After School Aid & Assistant Facilities Manager - Spectrum Academy Charter School
 >(January 2016 - December 2019)
 
-*Spectrum Academy is specialized for students with autism and other neurodiversities who would benefit from unique and personal learning environment. They provide small class sizes, with individualized instruction and innovative social skills curriculum.*
+*Spectrum Academy is specialized for students with autism and other neurodiversities who would benefit from a unique and personal learning environment. They provide small class sizes, with individualized instruction and innovative social skills curriculum.*
 
-- Managed record-keeping of facility maintanance expenditures.
+- Managed record-keeping of facility maintenance expenditures.
 - Supervised and entertained elementary-age students; many were on the autism spectrum. 
 - Assisted in general handyman jobs and janitorial duties around the school.
 - Assisted teachers and staff with random tasks as needed.
@@ -101,7 +101,7 @@ Left the company to follow my career IT & Computer Science goals.
 - Provided the Operations Manager with basic IT Management training.
 
 
-## Wind LGC Exhibit Automator - Discovery Gateway Childrens Museum
+## Wind LGC Exhibit Automator - Discovery Gateway Children's Museum
 >(March 2021 - April 2021)
 
 *Discovery Gateway Children's Museum is a contemporary discovery center offering 60,000 square feet of interactive, hands-on fun.*
@@ -117,10 +117,10 @@ Left the company to follow my career IT & Computer Science goals.
 *Firebird Ranch is the pen name for an author stationed in Park City, he writes predominantly on work-place and racial inequality.*
 
 - Functioned as a consultant for computer hardware, software, and website design.
-- Facilitated freelancer networking to accomplish goals outside of my scope.
+- Facilitated freelancer networking to accomplish goals outside my scope.
 
 
-## IT Consultant & Trainor - Educational Outfitters
+## IT Consultant & Trainer - Educational Outfitters
 >(January 2016 - December 2019)
 
 *Educational Outfitters is a small grant writing and consultation firm specializing in federal education funding for minority communities.*
@@ -132,12 +132,12 @@ Left the company to follow my career IT & Computer Science goals.
 ## Retail Booth Salesperson - Gypsy Caravan at Utah Renaissance Festival
 >(Weekends in May, 2013-2016)
 
-*Gypsy Caravan was a bellydancing & themed retail booth, they were deeply involved with the execution of the yearly festival.*
+*Gypsy Caravan was a belly dancing & themed retail booth, they were deeply involved with the execution of the yearly festival.*
 
 - Helped with booth set-up and teardown.
 - Assisted customers with their purchases.
 - Announced performances.
-- Performed various upkeeping duties to prepare for the festival.
+- Performed various up keeping duties to prepare for the festival.
 
 </details>
 
@@ -171,3 +171,5 @@ My favorite science project was an epigenetics project that involved collecting 
 
 
 </details>
+
+
